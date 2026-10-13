@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kokila 👋
 
-<!--
-**kokila-awsdevops/kokila-awsdevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Aspiring AWS Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I'm passionate about cloud computing, automation, and DevOps technologies. I enjoy exploring cloud solutions and building my technical skills to contribute to reliable, scalable, and efficient infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+* **Cloud Platform:** Amazon Web Services (AWS)
+* **AWS Services:** EC2, S3, VPC, IAM, Route 53, Elastic Load Balancing
+* **DevOps Tools:** Git, Docker, CI/CD
+
+### 🎯 Career Objective
+
+To build a career in AWS Cloud and DevOps engineering by applying my technical knowledge, solving real-world challenges, and contributing to innovative technology solutions.
+
+### 🤝 Connect with Me
+
+* **Email:** [kokila7909@gmail.com](mailto:kokila7909@gmail.com)
+* **LinkedIn:** Add your LinkedIn profile URL
+* **GitHub:** Explore my repositories below.
+
+---
+
+⭐ *Passionate about technology, cloud innovation, and continuous growth.*
