@@ -1,46 +1,86 @@
-Hi there, I'm Kokila 👋
-☁️ AWS Cloud & DevOps Enthusiast
-Passionate about building scalable cloud solutions and automating infrastructure. Currently learning and implementing AWS and DevOps technologies through hands-on projects.
+# Hi there, I'm Kokila 👋
 
-🚀 About Me
-🌱 Learning AWS Cloud & DevOps
-☁️ Working with AWS Services: EC2, S3, IAM, VPC, Lambda
-🐳 Learning Docker & Containerization
-🔧 Interested in CI/CD Automation
-💻 Practicing Linux Administration & Shell Scripting
-📫 Reach me: your-email@example.com
-🛠️ Skills & Tools
-Cloud
-AWS
+### ☁️ AWS Cloud & DevOps Enthusiast
 
-DevOps
-DockerGitGitHub
+Passionate about cloud computing, infrastructure automation, and building scalable cloud solutions using AWS and DevOps technologies.
 
-Operating System
-Linux
+---
 
-📂 Featured Projects
-🔹 User Registration Application Using AWS EC2 Two-Tier Architecture
-Deployed frontend and backend on separate EC2 instances
-Configured networking and security groups
-Demonstrated high availability architecture
-🔹 Serverless File Upload System
-Amazon S3 for storage
-API Gateway for API management
-AWS Lambda for backend processing
-🔹 Git & GitHub Practice Repository
-Version control workflows
-Branching and merging strategies
-Collaboration best practices
-📈 GitHub Stats
-GitHub Stats
+## 🚀 About Me
 
-Top Languages
+* ☁️ Interested in AWS Cloud Infrastructure and Services
+* 🛠️ AWS Services: EC2, S3, IAM, VPC, Lambda, and API Gateway
+* 🐳 DevOps Tools: Docker, Git, and GitHub
+* 🔧 Interested in CI/CD Pipeline Automation
+* 💻 Familiar with Linux Administration and Shell Scripting
+* 🎯 Career Goal: AWS Cloud Engineer / DevOps Engineer
+* 📫 Email: [kokila7909@gmail.com](mailto:kokila7909@gmail.com)
 
-🎯 Current Goals
-✅ AWS Cloud Practitioner Preparation
-✅ Build Real-World AWS Projects
-✅ Master Docker & Kubernetes
-✅ Learn Terraform
-✅ Implement CI/CD Pipelines
-⭐ Thanks for visiting my profile!
+---
+
+## 🛠️ Skills & Tools
+
+**Cloud Platform**
+
+* Amazon Web Services (AWS)
+* Amazon EC2, S3, IAM, VPC, Lambda, API Gateway
+
+**DevOps Tools**
+
+* Git and GitHub
+* Docker
+* CI/CD Fundamentals
+
+**Operating Systems**
+
+* Linux
+
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 User Registration Application Using AWS EC2 Two-Tier Architecture
+
+* Deployed frontend and backend components on separate Amazon EC2 instances.
+* Configured network settings and security groups.
+* Explored a two-tier cloud architecture.
+
+### 🔹 Serverless File Upload System
+
+* Used Amazon S3 for file storage.
+* Integrated Amazon API Gateway for API management.
+* Used AWS Lambda for serverless backend processing.
+
+### 🔹 Git & GitHub Practice
+
+* Practiced version control workflows.
+* Worked with branching and merging.
+* Explored repository management and collaboration.
+
+---
+
+## 📊 GitHub Profile
+
+Explore my repositories to see my work and technical projects.
+
+---
+
+## 🎯 Career Goals
+
+* Strengthen AWS Cloud infrastructure knowledge.
+* Build practical cloud projects.
+* Develop skills in Docker and Kubernetes.
+* Explore Infrastructure as Code with Terraform.
+* Implement automated CI/CD pipelines.
+
+---
+
+## 🤝 Connect With Me
+
+* **Email:** [kokila7909@gmail.com](mailto:kokila7909@gmail.com)
+
+
+---
+
+⭐ *Building skills, exploring cloud technologies, and growing in AWS Cloud & DevOps.*
